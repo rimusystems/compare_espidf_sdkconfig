@@ -5,7 +5,7 @@ The ESP-IDF SDKConfig file is a configuration file used by the ESP-IDF (Espressi
 
 The purpose of the SDKConfig file is to provide a convenient way to configure the behavior of the ESP-IDF libraries and components used in a project. It contains a set of configuration options, each of which can be set to either a default value or a custom value. These configuration options can control things like which libraries and components are included in a project, which hardware peripherals are used, and how the code is optimized.
 
-The SDKConfig file should be edited using the `make menuconfig` command in the ESP-IDF build system. The `make menuconfig` command provides a graphical interface for editing the SDKConfig file and selecting various configuration options.
+The SDKConfig file should be edited using the `idf.py menuconfig` command in the ESP-IDF build system. The `idf.py menuconfig` command provides a graphical interface for editing the SDKConfig file and selecting various configuration options.
 
 Overall, the purpose of the SDKConfig file is to allow developers to easily customize and configure their ESP-IDF projects to meet their specific requirements, without having to manually modify the source code of the libraries and components used in the project.
 
