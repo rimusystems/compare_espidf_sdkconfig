@@ -1,4 +1,4 @@
-# Compare an ESP32 sdkconfig file to defaults
+# Compare an ESP-IDF sdkconfig file to defaults
 
 ## Introduction
 The ESP-IDF SDKConfig file is a configuration file used by the ESP-IDF (Espressif IoT Development Framework) to specify various configuration options for a project.
